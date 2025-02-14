@@ -1,0 +1,9 @@
+[meta]
+name = "One-Tap Ghost"
+author = "healplease"
+category = "Keybinds"
+version = "1.0.0"
+siteid = 100000
+
+[script]
+module = "OneTapGhost"
